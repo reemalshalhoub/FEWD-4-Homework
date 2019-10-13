@@ -1,0 +1,30 @@
+
+.footer-container { font-style: italic; }
+
+.hp-issue-index { text-decoration: underline; 
+  background: pink;
+}
+.hp-news-title { font-family: sans-serif; 
+    color: plum;
+}
+.hp-news-author{ font-style: italic; 
+    color: green;
+}
+
+.hp-issue-article-list { color: red; 
+    background: skyblue; }
+
+.hp-news-date { text-decoration: underline; 
+    text-align: left; 
+    background: lightseagreen }
+
+.hp-news-category {font-weight: bold; 
+    color: orange;  }
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+li { font-family: Georgia, 'Times New Roman', Times, serif;
+}
