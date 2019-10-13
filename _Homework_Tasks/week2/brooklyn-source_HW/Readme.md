@@ -7,7 +7,7 @@ You prepared the initial page and assets, as well as the images and you only nee
 
 The final page should look something like this:
 
-![Final design](/mockup.png)
+![Final design](https://github.com/Riyadh-Part-Time-Courses/FEWD-4-Homework/blob/master/_Homework_Tasks/week2/brooklyn-source_HW/mockup.png)
 
 ## Design file, copy, and assets
 
